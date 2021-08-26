@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Final #GenerasiGIGIH
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## MooSick 
+Aplication using Spot*** API, you can search the music and choose the list by Album, Artists or Playlist.
 
-In the project directory, you can run:
+### First
+You must login first with your Spo*** account and yap you can already use MooSick!
+
+## How to run the app
+
+you can use:
 
 ### `yarn start`
 
