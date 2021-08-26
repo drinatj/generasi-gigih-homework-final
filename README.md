@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## MooSick 
 Aplication using Spot*** API, you can search the music and choose the list by Album, Artists or Playlist.
 
-### First
+### How to Use
 You must login first with your Spo*** account and yap you can already use MooSick!
 
 ## How to run the app
